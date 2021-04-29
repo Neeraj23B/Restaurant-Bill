@@ -1,0 +1,2 @@
+# Restaurant-Bill
+This is a C Programming project where you have a Menu Card displayed for you with the available items and their price. You can choose your required item from the Menu by entering the Item number in the Assigned space and further proceed with your order where you can order the next required item or End you Order. Once you Finalize your order the bill of your order with the details of the Customer, Item and the Amount to be paid with be displayed.
